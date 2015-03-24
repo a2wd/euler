@@ -1,0 +1,5 @@
+# Do not add compiled binaries or intermediate object files.
+*
+!*.*
+*.hi
+*.o
